@@ -1,0 +1,1 @@
+#ifndef _TIME_H_#define _TIME_H_namespace Public{class CTime{public:	void CTime();	void Update();	byte_8 GetTime();	static byte_8 GetRealTime();	private:	byte_8 update_time;	byte_8 last_update;};	};#endif

@@ -1,0 +1,1 @@
+#ifndef _PUBLIC_H_#define _PUBLIC_H_/////// definations of typetypedef char byte_1;typedef long byte_4;typedef int  INT;typedef long long INT64;typedef long long byte_8;typedef void* ptr;#endif
