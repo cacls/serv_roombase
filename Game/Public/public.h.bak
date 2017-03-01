@@ -1,5 +1,4 @@
-#ifndef _PUBLIC_H_
-#define _PUBLIC_H_
+#ifndef _PUBLIC_H_#define _PUBLIC_H_
 /////// definations of type
 namespace Public{
 	typedef signed char	int8;
