@@ -3,7 +3,7 @@
 
 #endf
 
-
+//
 class  cMyCommand
 {
 public:
